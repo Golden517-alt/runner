@@ -1,0 +1,6 @@
+{
+  "name": "Ayush Rail Runner 3D",
+  "description": "Offline 3D endless rail runner game with 5 themed levels, 6 characters, swipe controls, and immersive fullscreen Android gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
